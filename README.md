@@ -1,4 +1,5 @@
 # MatrixImageProcessing
 
+With thanks to Samrat sahoo, author of the following article: https://medium.com/analytics-vidhya/2d-convolution-using-python-numpy-43442ff5f381
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SimonBojesen/MatrixImageProcessing/HEAD)
+Please download the whole project in order to test as it requires reading from and writing to folders.
